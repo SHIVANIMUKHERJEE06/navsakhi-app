@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468960076874",
+    "firebase_url": "https://navsakhi-d4170-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "navsakhi-d4170",
+    "storage_bucket": "navsakhi-d4170.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468960076874:android:4e0c0ffcc01d26c085b2b3",
+        "android_client_info": {
+          "package_name": "com.example.navsakhi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468960076874-svd7ebo5t70je6gag9j3cdj7btln1b4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK2MoGLv5x4nkzX8j5ztc88b9GN64xnsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468960076874-svd7ebo5t70je6gag9j3cdj7btln1b4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
